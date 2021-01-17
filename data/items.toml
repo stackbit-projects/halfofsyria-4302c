@@ -4,7 +4,7 @@ image = "images/full/1.png"
 thumb = "images/thumbs/1.png"
 alt = "Half Of Syria"
 description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-url = "https://github.com/aerohub/hugrid"
+url = "https://www.facebook.com/wearehalfofsyria/"
 
 [[items]]
 title = "Hugrid Theme"
